@@ -1,0 +1,115 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin-block-start: 10px;
+  margin-block-end: 10px;
+}
+
+.separator {
+  margin: 0px 8px;
+}
+
+.divider {
+  height: 2px;
+  background-color: gray;
+  width: 100%;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border: solid black 1px;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.header-info {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+.header-info-contact-details {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.header-pic {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  max-width: 150px;
+  border-radius: 10%;
+  border: solid black 2px;
+}
+
+.header-pic img {
+  width: 100%;
+  height: auto;
+  border-radius: 10%;
+}
+
+.mainBody {
+  display: flex;
+  flex-direction: column;
+  border: solid black 1px;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.body-experience-company-jobTitle-duration {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+}
+
+.body-experience-team-link-tech {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.technicalSkill,
+.certification,
+.languages,
+.passion {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.body-education{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+.experience-team,
+.experience-link,
+.experience-tech,
+.certification-details,
+.college {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  border: solid black 1px;
+  margin: 10px;
+  padding: 10px 40px;
+}

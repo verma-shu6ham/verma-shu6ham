@@ -1,0 +1,140 @@
+{
+    "data": [
+        {
+            "company": "BrickRed Systems",
+            "jobTitle": "MERN Developer",
+            "start": 2024,
+            "end": 0,
+            "projects": []
+        },
+        {
+            "company": "NeoSOFT Technologies Pvt. Ltd.",
+            "jobTitle": "Full Stack Solidity Developer",
+            "start": 2022,
+            "end": 2024,
+            "projects": [
+                {
+                    "name": "Leads Generation Platform (Euerzuhause)",
+                    "link": "https://www.euerzuhause.de/",
+                    "responsibilities": [
+                        "Utilized Nest JS framework for building the backend infrastructure.",
+                        "We have developed various APIs, with a focus on the Leads module.",
+                        "Implemented a matching API equipped with advanced algorithms to correlate user inputs with available options in database collections.",
+                        "The Reports module generates insightful reports based on user interactions and preferences, such as sales reports, leads reports, and feedback reports."
+                    ],
+                    "teamSize": 5,
+                    "techStack": [
+                        "NestJs",
+                        "Typescript",
+                        "MongoDB",
+                        "Angular"
+                    ]
+                },
+                {
+                    "name": "Whrl Loans",
+                    "link": "https://www.whr.loans/",
+                    "responsibilities": [
+                        "Whrrl facilitates working capital funding for Farmers, Traders, and Producer Companies through Warehouse Receipt Lending during extended crop cycles.",
+                        "Develop APIs for contract deployment and data retrieval.",
+                        "Integrate web3 functionalities into APIs for blockchain interaction.",
+                        "Enhance existing smart contracts with new features."
+                    ],
+                    "teamSize": 4,
+                    "techStack": [
+                        "Solidity",
+                        "JavaScript",
+                        "NodeJs",
+                        "MongoDB"
+                    ]
+                },
+                {
+                    "name": "NFTree",
+                    "link": "",
+                    "responsibilities": [
+                        "NFTree mints NFTs representing square footage of land, converted into 3D images through graphic design. Sales proceeds support plantation drives and donations.",
+                        "Admin (Aurum): Mints NFTree images, lists them for auction, and posts blogs.",
+                        "User: Bids on listed NFTs; highest bidder gains ownership and access to related blog posts.",
+                        "Proceeds from auctions go to Aurum's donation account.",
+                        "Combines NFT technology with philanthropy, funding environmental efforts through NFT sales."
+                    ],
+                    "teamSize": 3,
+                    "techStack": [
+                        "Solidity",
+                        "NodeJs",
+                        "MongoDB",
+                        "ReactJs"
+                    ]
+                },
+                {
+                    "name": "EGOLD Platform",
+                    "link": "",
+                    "responsibilities": [
+                        "We developed a blockchain-based platform to purchase EGOLD tokens, representing ownership of gold, using multiple currencies.",
+                        "Integrated Stripe and Razorpay payment gateways, ensuring secure transactions.",
+                        "Implemented Apexchart to display daily EGOLD price, improving user experience and increasing customer retention by 20%."
+                    ],
+                    "teamSize": 3,
+                    "techStack": [
+                        "Solidity",
+                        "NodeJs",
+                        "MongoDB",
+                        "ReactJs"
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "Smart Factory Solution India Pvt. Ltd.",
+            "jobTitle": "Industrial Automation and NodeJS Developer",
+            "start": 2019,
+            "end": 2022,
+            "projects": [
+                {
+                    "name": "Mayonnaise Line Monitoring System (Muscat, Oman)",
+                    "link": "",
+                    "responsibilities": [
+                        "Implemented PLC programming and industrial automation protocols.",
+                        "Developed a monitoring system to improve production efficiency and reduce downtime.",
+                        "Created a NodeJs-based backend to collect and analyze production data."
+                    ],
+                    "teamSize": 5,
+                    "techStack": [
+                        "PLC(Delta-ISP Soft)",
+                        "NodeJs",
+                        "MongoDB"
+                    ]
+                },
+                {
+                    "name": "Pharmaceutical Blister Machine Monitoring System (Ahmedabad, Gujarat)",
+                    "link": "",
+                    "responsibilities": [
+                        "Integrated ThingWorx KepWare for real-time data acquisition.",
+                        "Enhanced system monitoring and maintenance schedules, increasing machine uptime.",
+                        "Developed a Node.js API for data integration with third-party applications."
+                    ],
+                    "teamSize": 4,
+                    "techStack": [
+                        "PLC(Delta-ISP Soft)",
+                        "NodeJs",
+                        "MongoDB"
+                    ]
+                },
+                {
+                    "name": "Edible Oil Line Monitoring System (Muscat, Oman)",
+                    "link": "",
+                    "responsibilities": [
+                        "Designed and programmed control systems for line monitoring.",
+                        "Improved process accuracy and operational efficiency.",
+                        "Utilized Node.js for building a custom dashboard to visualize monitoring data."
+                    ],
+                    "teamSize": 4,
+                    "techStack": [
+                        "PLC(Delta-ISP Soft)",
+                        "NodeJs",
+                        "MongoDB"
+                    ]
+                }
+            ]
+        }
+    ]
+}

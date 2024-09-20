@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "college" : "JSS Academy of Technical Education, Noida UP",
+            "degree" : "B.Tech: Electrical Engineering",
+            "start" : 2016,
+            "end": 2019
+        },
+        {
+            "college": "Shri Siddhi Vinayak Polytechnic, Bareilly UP",
+            "degree": "Diploma: Electrical Engineering",
+            "start": 2012,
+            "end": 2015
+        }
+    ]
+}

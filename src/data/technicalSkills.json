@@ -1,0 +1,33 @@
+{
+    "data": {
+        "programmingLanguage": [
+            "JavaScript",
+            "TypeScript",
+            "Solidity",
+            "C++"
+        ],
+        "webDevelopment": [
+            "NodeJs",
+            "ExpressJs",
+            "NestJs",
+            "ReactJs"
+        ],
+        "blockchain": [
+            "Ethereum(ERC20, ERC721)",
+            "RemixIDE",
+            "Solidity",
+            "Upgradeable Contracts"
+        ],
+        "database": [
+            "MongoDB"
+        ],
+        "tools": [
+            "Git",
+            "Truffle",
+            "Web3Js",
+            "Hardhat",
+            "EtherJs",
+            "GitLab-CI/CD"
+        ]
+    }
+}

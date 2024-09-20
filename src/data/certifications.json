@@ -1,0 +1,26 @@
+{
+    "data":[
+        {
+            "courseName": "Namaste NodeJS",
+            "platform": "Namastedev",
+            "certificateUrl": "https://namastedev.com/verma.shu6ham/certificates/namaste-node"
+        },
+        {
+            "courseName": "Advanced Solidity: Yul and Assembly",
+            "platform": "Udemy",
+            "certificateUrl": "https://drive.google.com/file/d/1W388kpOgpym_rrv_-pz5gLEQPWglCNq4/view?usp=drive_link"
+        },{
+            "courseName": "Advanced Solidity: Understanding and Optimizing Gas Costs",
+            "platform": "Udemy",
+            "certificateUrl": "https://drive.google.com/file/d/1Qk95GpciyopI0Ta0sWqK4PLVRR_zi-4Y/view?usp=drive_link"
+        },{
+            "courseName": "NodeJS (ExpressJS, Mongoose & MongoDB)",
+            "platform": "CodingWithMosh",
+            "certificateUrl": "https://drive.google.com/file/d/1yLXh8VxgKBPM-z8S5Yi3DV_-U2bN486E/view?usp=drive_link"
+        },{
+            "courseName": "Blockchain Specialization",
+            "platform": "Coursera",
+            "certificateUrl": "https://drive.google.com/file/d/1Q9lJ5w1txK77H1BcQxPhNic15FL3w9yx/view?usp=drive_link"
+        }
+    ]
+}
