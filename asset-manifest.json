@@ -1,19 +1,15 @@
 {
   "files": {
-    "main.css": "/verma-shu6ham/static/css/main.87cdede0.css",
-    "main.js": "/verma-shu6ham/static/js/main.a0c7398a.js",
-    "static/js/213.a1ff6482.chunk.js": "/verma-shu6ham/static/js/213.a1ff6482.chunk.js",
-    "static/js/732.b269a99e.chunk.js": "/verma-shu6ham/static/js/732.b269a99e.chunk.js",
+    "main.css": "/verma-shu6ham/static/css/main.532f398f.css",
+    "main.js": "/verma-shu6ham/static/js/main.07316b33.js",
     "static/js/453.f69bbbff.chunk.js": "/verma-shu6ham/static/js/453.f69bbbff.chunk.js",
     "index.html": "/verma-shu6ham/index.html",
-    "main.87cdede0.css.map": "/verma-shu6ham/static/css/main.87cdede0.css.map",
-    "main.a0c7398a.js.map": "/verma-shu6ham/static/js/main.a0c7398a.js.map",
-    "213.a1ff6482.chunk.js.map": "/verma-shu6ham/static/js/213.a1ff6482.chunk.js.map",
-    "732.b269a99e.chunk.js.map": "/verma-shu6ham/static/js/732.b269a99e.chunk.js.map",
+    "main.532f398f.css.map": "/verma-shu6ham/static/css/main.532f398f.css.map",
+    "main.07316b33.js.map": "/verma-shu6ham/static/js/main.07316b33.js.map",
     "453.f69bbbff.chunk.js.map": "/verma-shu6ham/static/js/453.f69bbbff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87cdede0.css",
-    "static/js/main.a0c7398a.js"
+    "static/css/main.532f398f.css",
+    "static/js/main.07316b33.js"
   ]
 }
